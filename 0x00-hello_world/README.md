@@ -6,3 +6,5 @@ Task 3 - Name
 Task 4 - Hello puts
 Task 5 - Hello printf
 Task 6 - Sizi is not grandeur
+tASK 7 - Output assembly code
+
