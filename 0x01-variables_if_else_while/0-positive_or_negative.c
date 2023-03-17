@@ -4,7 +4,6 @@
 
 /**
  * main - Entry point
- * @n: number to be checked
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -15,11 +14,11 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-	printf("is positive\n");
+	printf("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
-	printf("is zero");
+	printf("%d is zero\n", n);
 	}
 	else
 	{
