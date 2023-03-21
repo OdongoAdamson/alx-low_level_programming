@@ -7,9 +7,9 @@
  * num2: Second number
  * Return: Sum
  */
-int add(int, int)
+int add(int num1, int num2)
 {
-	int num1, num2, sum;
+	int sum;
 
 	sum = num1 + num2;
 	return (sum);
