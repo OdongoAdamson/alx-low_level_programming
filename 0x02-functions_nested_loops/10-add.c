@@ -3,8 +3,8 @@
 
 /**
  * add - function to add two numbers
- * num1: FIrst number
- * num2: Second number
+ * @num1: FIrst number
+ * @num2: Second number
  * Return: Sum
  */
 int add(int num1, int num2)
