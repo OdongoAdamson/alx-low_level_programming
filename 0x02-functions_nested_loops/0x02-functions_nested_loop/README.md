@@ -6,4 +6,3 @@ Task 3 - checks lowercase
 Task 4 - checks uppercase
 Task 5 - print sign of a number
 Task 6 - calculate absolute value of a number.
-
