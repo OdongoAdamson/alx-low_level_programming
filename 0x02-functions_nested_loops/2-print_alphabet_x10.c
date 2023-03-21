@@ -6,7 +6,7 @@
  *
  * Return: void
  */
-void print_alphabet_x1o(void)
+void print_alphabet_x10(void)
 {
 	char i;
 	int j;
