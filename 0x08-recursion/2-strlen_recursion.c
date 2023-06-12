@@ -7,9 +7,9 @@
  *
  * Return: lentgth of string
  */
-int _strlen(char *s)
+int _strlen_recursion(char *s)
 {
-	if (s == '\0')
+	if (*s == '\0')
 	{
 		return (0);
 	}
