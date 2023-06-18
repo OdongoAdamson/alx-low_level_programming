@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - program that prints its name
@@ -8,7 +7,7 @@
  * @argv: argument vector prints name
  * Return : Always 0 success
  */
-int main(int argc, char **argv)
+int main(int argc, char *argv[])
 {
 	printf("%s\n", argv[0]);
 	return (0);
