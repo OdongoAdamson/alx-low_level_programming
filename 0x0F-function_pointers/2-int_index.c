@@ -4,6 +4,7 @@
  * @array: integers
  * @size: size of array
  * @cmp: compaires ints
+ * Return: Always 0 success
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
