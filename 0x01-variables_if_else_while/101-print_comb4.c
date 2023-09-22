@@ -13,13 +13,13 @@ int main(void)
 
 	int i, j, k;
 
+	while (i != j && i != k && j != k)
+	{
 	for (i = 48; i <= 57; i++)
 	{
 	for (j = 48; j <= 57; j++)
 	{
 	for (k = 48; k <= 57; k++)
-	{
-	while (i != j && i != k && j != k)
 	{
 	putchar(i);
 	putchar(j);
