@@ -5,7 +5,7 @@
  * @ i - first digit
  * @ j - second digit
  * @ k - third digit
- * return: Always zero success
+ * Return: Always 0 (success)
  */
 
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 
 	int i, j, k;
 
-	while (i != j && i != k && j != k)
+	if (i != j && i != k && j != k)
 	{
 	for (i = 48; i <= 57; i++)
 	{
