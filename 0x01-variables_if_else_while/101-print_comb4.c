@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main : entry point
  * @ i - first digit
  * @ j - second digit
  * @ k - third digit
