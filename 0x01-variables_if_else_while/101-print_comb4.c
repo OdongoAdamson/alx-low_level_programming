@@ -14,7 +14,7 @@ int main(void)
 	int i, j, k;
 
 	if (i != j && i != k && j != k)
-	{
+	
 	for (i = 48; i <= 57; i++)
 	{
 	for (j = 48; j <= 57; j++)
@@ -26,7 +26,6 @@ int main(void)
 	putchar(k);
 	putchar(44);
 	putchar(32);
-	}
 	}
 	}
 	}
