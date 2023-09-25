@@ -6,7 +6,7 @@
  * Return: 1 i input is a digit 0 if not
  */
 
-int _isdigit(int c)
+int _isdigit(int y)
 {
 	if (y >= 48 && y <= 57)
 	{
