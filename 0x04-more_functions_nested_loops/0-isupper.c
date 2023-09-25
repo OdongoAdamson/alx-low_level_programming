@@ -1,13 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - Entry point
- * _isupper - checks if its uppercase
- * @ c - value to be checked
- * Return : 1 if value is upper 0 if not
+ * _isupper - Checks if value is uppercase
+ * @i : value to be checked
+ * Return: 1 if value is upper 0 if not
  */
-int _isupper(int c)
+int _isupper(int i)
 {
 	int i;
 
@@ -15,7 +13,7 @@ int _isupper(int c)
 	{
 	return (1);
 	}
-	else if (i > 60 && i <= 122)
+	else
 	{
 	return (0);
 	}
