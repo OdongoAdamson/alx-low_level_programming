@@ -9,12 +9,9 @@ int _isupper(int i)
 {
 	int i;
 
-	if (i > 64 && i <= 90)
+	if (i >= 65 && i <= 90)
 	{
 	return (1);
 	}
-	else
-	{
 	return (0);
-	}
 }
