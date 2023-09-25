@@ -15,7 +15,7 @@ int _isupper(int c)
 	{
 	return (1);
 	}
-	else
+	else if (i > 60 && i <= 122)
 	{
 	return (0);
 	}
