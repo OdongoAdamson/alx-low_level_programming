@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - prints nums 0 - 9
+ * print_numbers - prints nums 0 - 9
  * Return: Always 0 (success)
  */
 
