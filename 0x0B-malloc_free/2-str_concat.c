@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdlib.h>
+#include <stdilib.h>
 #include <stdio.h>
 
 /**
@@ -15,7 +15,8 @@ char *str_concat(char *s1, char *s2)
 	char *s;
 
 	if (s1 == NULL || s2 == NULL)
-		s1, s2 = "";
+	s1 = "";
+	s2 = "";
 
 	while (s1[i])
 		i++;
