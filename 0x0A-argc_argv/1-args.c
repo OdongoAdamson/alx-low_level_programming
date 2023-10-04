@@ -13,7 +13,9 @@ int main(int argc, char *argv[])
 {
 	void argv[];
 
+	while (argc++)
+	{
 	printf("%d\n", argc);
-
+	}
 	return (0);
 }
