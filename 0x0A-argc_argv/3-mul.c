@@ -11,7 +11,6 @@
 
 int main(int argc, char *argv[])
 {
-	(void) argc;
 	int mul;
 
 	mul = (atoi(argv[1]) * atoi(argv[2]));
