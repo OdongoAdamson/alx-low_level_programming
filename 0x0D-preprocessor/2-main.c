@@ -2,7 +2,7 @@
 
 /**
  * main - prints its name
- * @file : name of file
+ * 
  * Return: Always 0 Success
  */
 
