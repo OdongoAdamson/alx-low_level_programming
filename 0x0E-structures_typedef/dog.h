@@ -6,6 +6,8 @@
  * @name: Name of god
  * @age: Age of the dog
  * @owner: Owners name
+ *
+ * Description: atributes of a dog
  */
 
 struct dog
