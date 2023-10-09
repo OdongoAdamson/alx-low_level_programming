@@ -2,7 +2,7 @@
 
 /**
  * main - prints its name
- * 
+ *
  * Return: Always 0 Success
  */
 
