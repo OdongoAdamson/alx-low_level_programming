@@ -4,6 +4,7 @@
 
 /**
  * free_dog - free dog in mem
+ * @d: Dog in memory
  *
  * Return: Always 0 Success
  */
