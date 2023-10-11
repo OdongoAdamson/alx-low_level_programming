@@ -8,6 +8,7 @@
  *
  * Return: Always 0 success
  */
+
 int int_index(int *array, int size, int (*cmp)(int))
 {
 	int i = 0;
