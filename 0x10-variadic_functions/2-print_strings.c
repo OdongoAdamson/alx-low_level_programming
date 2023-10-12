@@ -20,7 +20,7 @@ for (i = 0; i < n; i++)
 s = va_arg(strngs, char *);
 
 if (s == NULL)
-printf("nil");
+printf("(nil)");
 else
 printf("%s", s);
 
