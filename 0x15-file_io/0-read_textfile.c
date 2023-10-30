@@ -4,7 +4,7 @@
 /**
  * read_textfile - read text file
  * @filename: the text file
- * @letter: letters being read
+ * @letters: letters being read
  * Return: w- actual number and 0 if it fails
  */
 
