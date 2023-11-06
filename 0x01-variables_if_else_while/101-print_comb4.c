@@ -24,10 +24,10 @@ int main(void)
 	putchar(i);
 	putchar(j);
 	putchar(k);
-	if (j == 56 && k == 57)
-	continue;
 	putchar(44);
 	putchar(32);
+	if (j == 56 && k == 57)
+	continue;
 	}
 	}
 	}
